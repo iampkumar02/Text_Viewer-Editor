@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="text_viewer_app">
+	<schema id="com.app.TextViewer" path="/com/app/TextViewer/">
+	</schema>
+</schemalist>
